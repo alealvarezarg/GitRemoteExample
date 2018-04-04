@@ -1,2 +1,2 @@
 # GitRemoteExample
-Git remote example
+This is an example of remote git repository!
